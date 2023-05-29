@@ -89,7 +89,7 @@ body {
 
 .section__main {
   background-image: linear-gradient(rgba(63, 0, 0, 0.4), rgba(0, 0, 0, 0.1)),
-    url("assets/background.jpg");
+    url("../assets/background.jpg");
   background-size: 100%;
   background-attachment: fixed;
   color: white;
@@ -169,7 +169,7 @@ footer {
     width: 100%;
     height: 450px;
     background-image: linear-gradient(rgba(63, 0, 0, 0.4), rgba(0, 0, 0, 0.9)),
-    url("assets/background-footer.jpg");
+    url("../assets/background-footer.jpg");
     background-size: cover;
     background-attachment: fixed;
 }
